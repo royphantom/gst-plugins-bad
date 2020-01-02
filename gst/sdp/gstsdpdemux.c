@@ -75,7 +75,7 @@ enum
 
 #define DEFAULT_DEBUG            FALSE
 #define DEFAULT_TIMEOUT          10000000
-#define DEFAULT_LATENCY_MS       200
+#define DEFAULT_LATENCY_MS       0
 #define DEFAULT_REDIRECT         TRUE
 
 enum
